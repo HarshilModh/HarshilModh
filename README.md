@@ -67,7 +67,7 @@
 ### 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/harshilmodh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-harshilmodh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/harshil-modh-53a62a1a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-harshilmodh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:harshilmodh77@gmail.com"><img src="https://img.shields.io/badge/Email-harshilmodh77@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Portfolio-harshilmodh.dev_(Coming_Soon)-1e3c72?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio (Coming Soon)"/>
 </p>
