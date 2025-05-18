@@ -1,57 +1,81 @@
-<h1 align="center">Harshil Chetankumar Modh&nbsp;<span style="font-size:1.1rem">👋</span></h1>
+<!-- =============================== HEADER =============================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Harshil%20Chetankumar%20Modh&fontAlignY=40&fontSize=40&color=gradient" alt="banner" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=500&height=60&font=Fira+Code&size=22&duration=2500&pause=1000&lines=CS+Student+%F0%9F%92%BB;Full‑Stack+%26+ML+Enthusiast+%F0%9F%9A%80;Lifelong+Learner+%F0%9F%8C%8E" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=520&height=70&font=Fira+Code&size=24&duration=2500&pause=800&lines=👋+Hello!+I'm+a+CS+Student.;⚙️+Full‑Stack+%26+ML+Builder.;🌱+Always+Learning+Something+New." alt="Intro" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshilmodh&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/harshilmodh?label=Followers&style=flat-square" alt="followers" />
 </p>
 
 ---
 
-### ✨ About
+### ✨ Quick Bits
 
-🧑‍💻 Computer Science undergrad @ **Stevens Institute of Technology** passionate about building delightful, scalable products.
+- 🧑‍💻 **CS Undergrad @ Stevens Institute of Technology**
+- 🚀 Building **Stevens Community Hub** for 2 k+ students
+- 📈 Loves algorithms, hackathons & open‑source
+- ☕ Fuelled by espresso and 🥘 spicy food
 
-🚀 Currently shipping **Stevens Community Hub** – forums, course reviews & academic resources for 2 k+ students.
-
-☕ When not coding you’ll find me dissecting algorithms, mentoring peers, or perfecting espresso ratios.
-
-### 🛠️ Tech I Enjoy
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,tailwind,mongodb,python,cpp,docker,git&perline=9" height="48" />
-</p>
-
-<sup>📚 Currently exploring GraphQL • Next.js • MLOps tooling</sup>
-
-### 📊 GitHub Snapshot
+### 🛠️ Current Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshilmodh&show_icons=true&count_private=true&hide_rank=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmodh&layout=compact&hide=css,html&theme=transparent" width="48%" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,tailwind,mongodb,python,cpp,docker,git&perline=9" height="50" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshilmodh&theme=github-dark-blue&hide_border=true" width="95%" />
-</p>
-
-<!-- Contribution snake animation (enable via GitHub Actions if desired) -->
-<!--
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HarshilModh/HarshilModh/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-</p>
--->
-
-### 🌟 Selected Projects
-
-| 🚩 Project | 📝 Brief | 🔧 Stack |
-|------------|---------|---------|
-| **Stevens Community Hub** | Forums, course reviews & resources for 2 k+ students | Node.js • React • MongoDB |
-| **Bankruptcy Prediction** | Predicts corporate bankruptcy using financial ratios & PCA | Python • scikit‑learn |
-| **DSA Notebook** | Illustrated explanations for 60+ classic algorithms | C++ • Python |
-
-### 🤝 Reach Me
-
-`LinkedIn:` harshilmodh | `Website:` harshilmodh.dev | `Email:` harshilmodh77@gmail.com 📬
+<sup>🌟 Diving deeper into GraphQL • Next.js • MLOps</sup>
 
 ---
 
-<sub>Built with Markdown, skillicons & GitHub‑Readme‑Stats. ✨ Last updated <!-- 2025‑05‑17 --></sub>
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshilmodh&show_icons=true&count_private=true&hide_title=true&hide_border=true&bg_color=00000000" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmodh&layout=compact&hide=css,html&hide_border=true&bg_color=00000000" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshilmodh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HarshilModh/HarshilModh/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🌟 Highlighted Projects
+
+| 🚀 Project | ✍️ Description | 🔧 Tech |
+|-----------|----------------|---------|
+| **Stevens Community Hub** | All‑in‑one student platform: forums, course reviews & resources for 2 k+ users. | Node.js · React · MongoDB |
+| **Bankruptcy Prediction** | ML pipeline that predicts corporate bankruptcy via financial ratios & PCA. | Python · scikit‑learn |
+| **DSA Notebook** | Illustrated notebook of 60+ classic algorithms with code and visuals. | C++ · Python |
+
+---
+
+### 🤝 Connect with Me
+
+- 💼 LinkedIn → **harshilmodh**
+- 🌐 Portfolio → **harshilmodh.dev** *(coming soon)*
+- ✉️ Email → **harshilmodh77@gmail.com**
+
+---
+
+<details>
+  <summary>💡 More&nbsp;About&nbsp;Me</summary>
+  <br>
+  <ul>
+    <li>🎤 Mentor & lightning‑talk speaker – love sharing knowledge.</li>
+    <li>📚 Favourite topics: web performance, secure coding & data‑driven products.</li>
+    <li>🕹️ Side hobbies: photography 📸, road‑trips 🚗 & Marvel lore 🦸‍♂️.</li>
+  </ul>
+</details>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
+</p>
