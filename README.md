@@ -4,14 +4,18 @@
   CS student @ <strong>Stevens Institute of Technology</strong> • Full‑stack &amp; ML enthusiast • Lifelong learner
 </p>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=harshilmodh&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science undergraduate who loves turning ideas into **scalable web apps** and exploring **machine learning**.
 - 🛠 Currently architecting **Stevens Community Hub** – a forum, course‑review & resource platform for students built with **Node.js, Express, React, Tailwind CSS & MongoDB**.
-- 📚 Enjoy deep dives into **algorithms & data structures** (check out my notebooks and LeetCode solutions!).
-- ✍️ Write about tech, productivity & career growth in my [Blog](#) and GitHub Discussions.
+- 📚 Enjoy deep dives into **algorithms & data structures** (check out my notebooks and LeetCode solutions).
+- ✍️ I write about tech, productivity & career growth through personal essays and GitHub Discussions.
 - 🤝 Open to collaboration on open‑source, hackathons or research projects – feel free to connect!
 
 ## 🚀 Tech Toolbox
@@ -33,8 +37,20 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshilmodh&show_icons=true&hide_rank=true&count_private=true" alt="Harshil's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshilmodh&show_icons=true&hide_rank=true&count_private=true" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmodh&layout=compact&hide=html,css" alt="Top languages" />
+</p>
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshilmodh" alt="GitHub Streak" />
+</p>
+
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshilmodh&theme=gruvbox&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ## 🌱 Featured Projects
@@ -49,9 +65,9 @@
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** <https://linkedin.com/in/harshilmodh>
-- **Portfolio:** <https://harshilmodh.dev> *(WIP)*
-- **Email:** <harshilmodh77@gmail.com>
+- LinkedIn: harshilmodh (profile link coming soon)
+- Portfolio: harshilmodh.dev (under construction)
+- Email: harshilmodh77@gmail.com
 
 ## ⚡ Fun Fact
 
@@ -67,4 +83,4 @@ I can talk for hours about the Marvel Universe while refactoring code — chal
   - 🌎 Outside of code I enjoy photography, cooking spicy food & spontaneous road trips.
 </details>
 
-<!-- ✨ README template crafted with ❤️ by Harshil --> 
+<!-- ✨ README template crafted with ❤️ by Harshil -->
