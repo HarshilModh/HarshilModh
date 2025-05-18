@@ -1,80 +1,143 @@
-# Hi there, I'm [Your Name] 👋
+ <!-- ============================ MODERN HEADER ============================ -->
+
+<p align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Harshil%20C.%20Modh&fontAlign=50&fontSize=45&fontColor=ffffff&color=0:1e3c72,100:2a5298&desc=Full‑Stack%20🚀%20|%20ML%20Explorer%20🤖&descAlign=50&descAlignY=75&animation=fadeIn" alt="header" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=45&font=Fira+Code&size=24&duration=2800&pause=1000&color=1E3C72&vCenter=true&lines=👋+Hey+there!+Welcome+to+my+space.;⚡️+Solving+problems+with+code.;🌱+Building+something+new+every+day." alt="Intro typing" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=harshilmodh&style=flat-square" alt="Profile views" />
+
+  <img src="https://img.shields.io/github/followers/harshilmodh?label=Followers&style=flat-square" alt="Followers" />
+
+</p>
+
+
 
 ---
 
-## About Me 🚀
 
-I'm a [Your Role - e.g., Software Developer, Data Scientist, Student, Tech Enthusiast] passionate about [Your Core Interests/Passions - e.g., building innovative web applications, exploring the potential of AI, contributing to open-source projects, learning new technologies].
 
-* 🌍 I'm based in [Your Location - e.g., San Francisco, CA / Remote].
-* 教育 I have a background in [Your Education/Field - e.g., Computer Science from XYZ University, Self-taught with a focus on Full-Stack Development].
-* 💼 Currently, I'm [Your Current Status - e.g., working on [Project/Company Name], seeking new opportunities, learning [New Skill]].
-* 💬 Ask me about [Topics you're knowledgeable or enthusiastic about - e.g., Python, React, Cloud Computing, specific projects].
-* 📫 How to reach me: [Your Email Address (optional) or preferred contact method].
-* ⚡ Fun fact: [A quirky or interesting fact about you - e.g., I can solve a Rubik's Cube in under a minute!, I love hiking and photography.].
+### ✨ At a Glance
 
----
 
-## 🛠️ My Tech Stack
 
-Here are some of the technologies and tools I enjoy working with:
+- 🧑‍💻 CS Undergrad @ **Stevens Institute of Technology**
 
-* **Languages:** [e.g., Python, JavaScript, Java, C++, Go, TypeScript, Ruby, Swift, Kotlin]
-* **Frontend:** [e.g., React, Angular, Vue.js, HTML5, CSS3, Svelte, Next.js]
-* **Backend:** [e.g., Node.js, Django, Flask, Spring Boot, Ruby on Rails, Express.js]
-* **Databases:** [e.g., MongoDB, PostgreSQL, MySQL, SQLite, Firebase Firestore]
-* **Cloud & DevOps:** [e.g., AWS, Azure, GCP, Docker, Kubernetes, Jenkins, GitHub Actions]
-* **Mobile:** [e.g., React Native, Flutter, Swift (iOS), Kotlin (Android)]
-* **Data Science/ML:** [e.g., TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy, R]
-* **Tools:** [e.g., Git, VS Code, Jupyter Notebook, Figma, Postman]
-* **Currently Learning:** [e.g., Rust, GraphQL, Quantum Computing]
+- 🚀 Creator of **Stevens Community Hub** (2 k+ students)
 
----
+- 🤝 Hackathon regular & open‑source contributor
 
-## 🔭 My Projects
+- ☕️ Espresso lover | 🧭 Always exploring something new
 
-Here are a few projects I'm proud of. You can find more on my repositories tab!
 
-* **[Project Name 1](link_to_project_repository_or_live_demo)**
-    * Description: A brief overview of the project, its purpose, and key features.
-    * Tech Stack: [e.g., React, Node.js, MongoDB]
-    * ⭐ *Highlights: [e.g., Implemented a real-time chat feature, Achieved 90% test coverage]*
-* **[Project Name 2](link_to_project_repository_or_live_demo)**
-    * Description: Another cool project.
-    * Tech Stack: [e.g., Python, Django, PostgreSQL]
-    * ⭐ *Highlights: [e.g., Integrated with a third-party API, Deployed using Docker]*
-* **[Project Name 3](link_to_project_repository_or_live_demo)**
-    * Description: And one more for good measure.
-    * Tech Stack: [e.g., Swift, Firebase]
-    * ⭐ *Highlights: [e.g., Designed a user-friendly UI, Published on the App Store]*
+
+### 🛠️ Toolkit
+
+
+
+<p align="center">
+
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,tailwind,mongodb,python,cpp,docker,git&perline=9" height="50" />
+
+</p>
+
+
+
+<sup>Currently diving into GraphQL • Next.js • MLOps</sup>
+
+
 
 ---
 
-## 🌱 I'm Currently Learning / Focusing On
 
-* [Specific Skill/Technology 1 - e.g., Advanced concepts in Machine Learning]
-* [Specific Skill/Technology 2 - e.g., Building scalable microservices with Go]
-* [Personal Development Goal - e.g., Improving my technical writing skills]
+
+### 📈 GitHub Analytics
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=harshilmodh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmodh&layout=compact&hide=css,html&hide_border=true&theme=transparent" width="48%" />
+
+</p>
+
+
+
+<p align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=harshilmodh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=github-dark-blue" width="95%" />
+
+</p>
+
+
+
+<!-- Modern contribution graph animation -->
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshilmodh&theme=react-dark&hide_border=true" alt="Activity graph" />
+
+</p>
+
+
 
 ---
 
-## 🤝 Let's Connect!
 
-I'm always open to connecting with fellow developers, discussing new ideas, or collaborating on interesting projects.
 
-* 🔗 **LinkedIn:** [Your LinkedIn Profile URL]
-* 🐦 **Twitter:** [@YourTwitterHandle] (Optional)
-* 🌐 **Portfolio/Website:** [Your Personal Website URL] (Optional)
-* 📝 **Blog:** [Your Blog URL] (Optional)
-* 🧑‍💻 **Dev.to:** [Your Dev.to Profile URL] (Optional)
-* <0xF0><0x9F><0xAA><0xB2> **Stack Overflow:** [Your Stack Overflow Profile URL] (Optional)
+### 🌟 Highlighted Projects
+
+
+
+| 🚀 Project | ✍️ What It Does | 🛠️ Stack |
+
+|-----------|----------------|-----------|
+
+| **Stevens Community Hub** | Forums, course reviews & resources for 2 k+ students | Node.js · React · MongoDB |
+
+| **Bankruptcy Prediction** | Predicts corporate bankruptcy using financial ratios & PCA | Python · scikit‑learn |
+
+| **DSA Notebook** | Illustrated explanations & code for 60+ classic algorithms | C++ · Python |
+
+
 
 ---
 
-## 📊 GitHub Stats (Optional)
+
+
+### 🤝 Connect with Me
+
+
+
+|  |  |
+
+|---|---|
+
+| 💼 LinkedIn | **harshilmodh** |
+
+| 🌐 Portfolio | **harshilmodh.dev** *(coming soon)* |
+
+| ✉️ Email | **harshilmodh77@gmail.com** |
+
+
 
 ---
 
----
 
-Thanks for visiting my profile! Feel free to explore my repositories and get in touch. ✨
+
+<sub>Made with 💙 & lots of ☕️ — Last updated <!-- 2025‑05‑17 --></sub>
