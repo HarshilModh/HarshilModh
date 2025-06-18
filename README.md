@@ -1,126 +1,138 @@
-<!-- ============================ MODERN HEADER ============================ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&text=Harshil%20C.%20Modh&fontAlign=50&fontSize=45&fontColor=ffffff&color=0:1e3c72,100:2a5298&desc=Full‑Stack%20🚀%20|%20ML%20Explorer%20🤖&descAlign=50&descAlignY=75&animation=fadeIn" alt="header" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&height=45&font=Fira+Code&size=24&duration=2800&pause=1000&color=1E3C72&vCenter=true&lines=👋+Hey+there!+Welcome+to+my+space.;⚡️+Solving+problems+with+code.;🌱+Building+something+new+every+day.;🎓+MS+Computer+Science+@+Stevens;🤖+AI+%26+Full-Stack+Developer" alt="Intro typing" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshilmodh&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/harshilmodh?label=Followers&style=flat-square" alt="Followers" />
-</p>
-
----
-
-### ✨ At a Glance
-- 🎓 **MS Computer Science** @ Stevens Institute of Technology (GPA: 3.83/4.00)
-- 🚀 Former **Software Engineer Intern** @ Grownited | **Associate Software Engineer** @ Synoptek
-- 🏆 **Oracle Java SE Certified** | **Postman Student Expert**
-- 🤖 AI enthusiast working with **LangChain, Hugging Face, LLMs**
-- 🌟 Creator of **Stevens Hub** & **AI Code Auditor** platforms
-- ☕️ Espresso lover | 🧭 Always exploring something new
-
----
-
-### 🛠️ Complete Toolkit
-
-**Languages & Core Technologies**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,sql&perline=8" height="50" />
-</p>
-
-**Frontend & UI**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&perline=4" height="45" />
-</p>
-
-**Backend & Database**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,mongodb,postgresql,mysql,firebase&perline=8" height="45" />
-</p>
-
-**DevOps & Cloud**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,terraform,kubernetes,vercel,netlify,heroku,git&perline=8" height="45" />
-</p>
-
-**AI & ML**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" height="45" />
-  <img src="https://img.shields.io/badge/-LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" height="45" />
-  <img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="45" />
-</p>
-
-<sup>Currently diving into **LlamaIndex** • **Together AI** • **Advanced MLOps**</sup>
-
----
-
-### 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshilmodh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmodh&layout=compact&hide=css,html&hide_border=true&theme=transparent" width="48%" />
-</p>
-
-<!-- Modern contribution graph animation -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshilmodh&theme=react-dark&hide_border=true" alt="Activity graph" />
-</p>
-
----
-
-### 🌟 Featured Projects
-
-| 🚀 Project | ✍️ What It Does | 🛠️ Stack | 📊 Impact |
-|-----------|----------------|-----------|----------|
-| **🤖 AI Code Auditor + DSA Visualizer** | Unified platform with AI code analysis & interactive DSA learning | React · TypeScript · Llama 3.1 · Qwen 2.5 | 90%+ accuracy, 35% learning improvement |
-| **☁️ Droply - Cloud File Sharing** | Secure file sharing with end-to-end encryption & OTP auth | Next.js · Drizzle ORM · ImageKit · Neon DB | 60% faster delivery, enterprise security |
-| **🎓 Stevens Hub (Duck Hub)** | Full-stack student portal with forums & course reviews | Node.js · Express · MongoDB · Google Maps | 2k+ students, 90% security improvement |
-| **📊 Bankruptcy Prediction** | ML model predicting corporate bankruptcy using financial data | Python · scikit-learn · PCA | High accuracy financial analysis |
-| **📚 DSA Notebook** | Comprehensive algorithm explanations with code examples | C++ · Python · Interactive Tutorials | 60+ algorithms, step-by-step learning |
-
----
-
-### 💼 Professional Journey
-
-**🔧 Software Engineer Intern** • *Grownited* • *July 2023 - Jan 2024*
-- Developed 7 RESTful APIs with **<180ms latency**
-- Boosted Lighthouse performance from **70 to 92**
-- Achieved **85% test coverage** with Jest + CI/CD
-
-**💻 Associate Software Engineer** • *Synoptek* • *Feb 2023 - June 2023*
-- Architected APIs serving **500+ daily users**
-- Optimized DB response times by **30%**
-- Enhanced user engagement by **30%** through iterative rollouts
-
----
-
-### 🏅 Certifications & Achievements
-- 🥇 **Oracle Java SE Certified**
-- 🎯 **Postman Student Expert**
-- 🏆 Hackathon regular & open-source contributor
-- 📈 Consistent **3.83/4.00 GPA** in graduate studies
-
----
-
-### 🤝 Connect with Me
+# Hi there, I'm Harshil Modh! 👋
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+</div>
 
+---
+
+## 🚀 About Me
+
+I'm a passionate **Full-Stack Developer** and **AI enthusiast** currently pursuing my Master's in Computer Science at Stevens Institute of Technology. With a strong foundation in modern web technologies and a keen interest in artificial intelligence, I love building scalable applications that solve real-world problems.
+
+- 🎓 **MS in Computer Science** at Stevens Institute of Technology (GPA: 3.83/4.00)
+- 🌱 Currently exploring **AI/ML technologies** and **cloud architecture**
+- 💼 Former **Software Engineer Intern** at Grownited & **Associate Software Engineer** at Synoptek
+- 🎯 Passionate about creating **user-centric applications** with clean, efficient code
+- 📍 Based in **Hoboken, NJ**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### AI & Machine Learning
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+### 🤖 AI Code Auditor + DSA Visualizer
+**A unified platform combining AI-powered code auditing with interactive DSA learning**
+- Leveraged **Llama 3.1, Qwen 2.5 & Gemma 2** for code analysis with 90%+ accuracy
+- Built 10+ interactive DSA visualization modules
+- Improved peer understanding by 35% through step-by-step tutorials
+- **Tech Stack:** React, TypeScript, Tailwind CSS, AI APIs, Zod
+
+### ☁️ Droply - Cloud File Sharing Platform
+**Secure file-sharing service with enterprise-grade features**
+- End-to-end encryption with OTP-based authentication
+- Integrated **ImageKit** for 60% faster image delivery
+- Fine-grained access control and expiring links
+- **Tech Stack:** Next.js, TypeScript, Drizzle ORM, Neon Database
+
+### 🎓 Stevens Hub (Duck Hub)
+**Full-stack student portal with community features**
+- Reddit-style forums with rich media support
+- Course review engine with anonymized submissions
+- Google OAuth + 2FA reducing unauthorized access by ~90%
+- Integrated Google Maps API increasing usability by ~40%
+- **Tech Stack:** Node.js, Express, MongoDB, Google Maps API
+
+---
+
+## 💼 Professional Experience
+
+### 🔧 Software Engineer Intern | Grownited
+*July 2023 - January 2024*
+- Developed 7 RESTful APIs with <180ms latency
+- Improved Lighthouse performance from 70 to 92
+- Achieved 85% test coverage with Jest integration
+
+### 💻 Associate Software Engineer | Synoptek
+*February 2023 - June 2023*
+- Architected APIs for 500+ daily users
+- Optimized database response times by 30%
+- Enhanced user engagement by 30% through iterative rollouts
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshilModh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilModh&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshilModh&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🏅 Certifications
+
+- **Oracle Java SE Certified**
+- **Postman Student Expert**
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-modh-53a62a1a6/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshilModh)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmodh@stevens.edu)
 
 </div>
 
-| 📱 Contact | 🌐 Info |
-|-----------|----------|
-| 💼 LinkedIn | **harshil-modh-53a62a1a6** |
-| 🌐 Portfolio | **Coming Soon** |
-| ✉️ Email | **hmodh@stevens.edu** |
-| 📞 Phone | **(551) 267-0683** |
-| 📍 Location | **Hoboken, NJ** |
-
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarshilModh&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
 
 <div align="center">
   
@@ -129,7 +141,5 @@
 </div>
 
 ---
-
-<sub>Made with 💙 & lots of ☕️ — Always building something amazing</sub>
 
 ⭐ **If you find my projects interesting, don't forget to star them!**
