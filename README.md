@@ -14,24 +14,26 @@
 
 ---
 
-### ✨ At a Glance
+### ✨ About Me
 
-- 🧑‍💻 CS Undergrad @ **Stevens Institute of Technology**
-- 🚀 Creator of **Stevens Community Hub** (2 k+ students)
-- 🤝 Hackathon regular & open‑source contributor
-- ☕️ Espresso lover | 🧭 Always exploring something new
-
-### 🛠️ Toolkit
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,tailwind,mongodb,python,cpp,docker,git&perline=9" height="50" />
-</p>
-
-<sup>Currently diving into GraphQL • Next.js • MLOps</sup>
+- 🧑‍💻 MS Computer Science @ **Stevens Institute of Technology**  
+- 🚀 Creator of **Stevens Community Hub** with 2k+ users  
+- 🤝 Passionate about open-source, hackathons, and building impactful apps  
+- ☕️ Espresso lover | 🧭 Always exploring new technologies and ideas  
 
 ---
 
-### 📈 GitHub Analytics
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mongodb,postgres,python,cpp,docker,k8s,git" height="50" />
+</p>
+
+<sup>Currently diving deeper into GraphQL • MLOps • Cloud Native</sup>
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshilmodh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" width="48%" />
@@ -42,31 +44,32 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=harshilmodh&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&theme=github-dark-blue" width="95%" />
 </p>
 
-<!-- Modern contribution graph animation -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshilmodh&theme=react-dark&hide_border=true" alt="Activity graph" />
 </p>
 
 ---
 
-### 🌟 Highlighted Projects
+### 🌟 Highlighted Projects
 
-| 🚀 Project | ✍️ What It Does | 🛠️ Stack |
-|-----------|----------------|-----------|
-| **Stevens Community Hub** | Forums, course reviews & resources for 2 k+ students | Node.js · React · MongoDB |
-| **Bankruptcy Prediction** | Predicts corporate bankruptcy using financial ratios & PCA | Python · scikit‑learn |
-| **DSA Notebook** | Illustrated explanations & code for 60+ classic algorithms | C++ · Python |
-
----
-
-### 🤝 Connect with Me
-
-|  |  |
-|---|---|
-| 💼 LinkedIn | **harshilmodh** |
-| 🌐 Portfolio | **harshilmodh.dev** *(coming soon)* |
-| ✉️ Email | **harshilmodh77@gmail.com** |
+| Project                 | Description                                                     | Tech Stack                          |
+|-------------------------|-----------------------------------------------------------------|-----------------------------------|
+| **Stevens Community Hub** | Forums, course reviews & resources for 2k+ students           | Node.js · React · MongoDB          |
+| **AI Code Auditor + DSA Visualizer** | AI-powered code auditing with real-time DSA visualization | React · TypeScript · AI APIs       |
+| **Droply – Cloud File Sharing** | Secure file sharing with OTP authentication & expiring links | Next.js · Drizzle ORM · Neon DB    |
+| **Bankruptcy Prediction** | Corporate bankruptcy prediction using financial data & PCA     | Python · scikit-learn              |
 
 ---
 
-<sub>Made with 💙 & lots of ☕️ — Last updated <!-- 2025‑05‑17 --></sub>
+### 🤝 Connect with Me
+
+| Platform  | Link                              |
+|-----------|----------------------------------|
+| 💼 LinkedIn | [harshilmodh](https://linkedin.com/in/harshilmodh) |
+| 🌐 Portfolio | [harshilmodh.dev](https://harshilmodh.dev) *(coming soon)* |
+| ✉️ Email  | harshilmodh77@gmail.com           |
+| 🐦 Twitter | [@harshilmodh](https://twitter.com/harshilmodh) *(optional)* |
+
+---
+
+<sub>Made with 💙 & lots of ☕️ — Last updated <!-- 2025‑05‑17 --></sub>
