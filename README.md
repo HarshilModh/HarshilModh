@@ -1,68 +1,74 @@
 <!-- ============================ HEADER ============================ -->
-<h1 align="center" style="font-weight: 900; margin-bottom: 0;">
-  Hey, I’m <span style="background: linear-gradient(90deg, #2563eb, #8b5cf6); -webkit-background-clip: text; color: transparent;">Harshil Modh</span> 👋
+<h1 align="center" style="font-weight: 900; font-size: 3rem; margin-bottom: 0;">
+  <span style="background: linear-gradient(90deg, #4f46e5, #3b82f6); -webkit-background-clip: text; color: transparent;">
+    Harshil Modh
+  </span> <br />
+  <span style="font-weight: 500; font-size: 1.2rem; color: #64748b;">
+    Full-Stack Developer & AI/ML Explorer 🚀
+  </span>
 </h1>
-<p align="center" style="margin-top: 5px; font-style: italic; color: #6b7280;">
-  Full-Stack Developer & Machine Learning Explorer — Crafting clean & impactful software 🚀
+
+<p align="center" style="margin: 1rem 0 2rem; font-style: italic; color: #94a3b8; font-size: 1.1rem;">
+  Solving complex problems with clean code & scalable systems. Always learning. Always growing.
 </p>
 
 ---
 
 <!-- ============================ SOCIAL BADGES ============================ -->
-<p align="center">
-  <a href="https://linkedin.com/in/harshilmodh" target="_blank" rel="noopener" style="margin:0 12px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<p align="center" style="margin-bottom: 2rem;">
+  <a href="https://linkedin.com/in/harshilmodh" target="_blank" rel="noopener" style="margin: 0 12px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/harshilmodh" target="_blank" rel="noopener" style="margin:0 12px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/harshilmodh" target="_blank" rel="noopener" style="margin: 0 12px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:harshilmodh77@gmail.com" target="_blank" rel="noopener" style="margin:0 12px;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:harshilmodh77@gmail.com" target="_blank" rel="noopener" style="margin: 0 12px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 <!-- ============================ ABOUT ME ============================ -->
-## About Me
+<section style="max-width: 700px; margin: auto;">
+  
+### 👋 About Me
 
-I’m a Master’s student at **Stevens Institute of Technology** focused on building scalable full-stack applications and exploring AI/ML innovations. Passionate about clean code, problem-solving, and lifelong learning.
+I am a <strong>Master’s in Computer Science</strong> student at Stevens Institute of Technology, passionate about crafting scalable full-stack apps and innovating in AI/ML. I believe in writing clean, maintainable code and building meaningful projects that impact real users.
 
 ---
 
-<!-- ============================ TECH STACK ============================ -->
-## Tech Stack
+### 💻 Tech Stack
 
 <p align="center" style="margin: 10px 0;">
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" />
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" />
-  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36" height="36" />
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" />
-  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="36" height="36" />
-  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36" height="36" />
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" />
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" />
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
+  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" />
+  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
+  <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" />
+  <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" />
 </p>
 
 ---
 
-<!-- ============================ GITHUB STATS ============================ -->
-## GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshilmodh&show_icons=true&count_private=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmodh&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshilmodh&show_icons=true&count_private=true&theme=react" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilmodh&layout=compact&theme=react" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshilmodh&theme=radical" width="95%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshilmodh&theme=react" width="95%" />
 </p>
 
 ---
 
-<!-- ============================ PROJECTS ============================ -->
-## Featured Projects
+### 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -73,6 +79,8 @@ I’m a Master’s student at **Stevens Institute of Technology** focused on bui
 
 ---
 
-<p align="center" style="font-size: 0.9rem; color: #9ca3af;">
-  Made with 💙 and ☕ — Last updated <!-- 2025‑05‑17 -->
+<p align="center" style="font-size: 0.9rem; color: #64748b;">
+  Made with 💙 & ☕ — Last updated <!-- 2025‑05‑17 -->
 </p>
+
+</section>
