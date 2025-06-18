@@ -106,7 +106,7 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** currently pursui
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilModh&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshilModh&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
