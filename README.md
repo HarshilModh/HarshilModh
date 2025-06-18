@@ -73,12 +73,26 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** currently pursui
 - **Tech Stack:** Next.js, TypeScript, Drizzle ORM, Neon Database
 
 ### 🎓 Stevens Hub (Duck Hub)
-**Full-stack student portal with community features**
+**Full-stack student portal serving 2k+ students**
 - Reddit-style forums with rich media support
 - Course review engine with anonymized submissions
 - Google OAuth + 2FA reducing unauthorized access by ~90%
 - Integrated Google Maps API increasing usability by ~40%
 - **Tech Stack:** Node.js, Express, MongoDB, Google Maps API
+
+### 📊 Bankruptcy Prediction
+**ML model predicting corporate bankruptcy using financial data**
+- Utilizes financial ratios and Principal Component Analysis (PCA)
+- High accuracy predictions for corporate financial health
+- Comprehensive data analysis and visualization
+- **Tech Stack:** Python, scikit-learn, PCA, Financial Analytics
+
+### 📚 DSA Notebook
+**Comprehensive algorithm learning resource**
+- Illustrated explanations for 60+ classic algorithms
+- Step-by-step code implementations and tutorials
+- Interactive learning approach for data structures
+- **Tech Stack:** C++, Python, Interactive Tutorials
 
 ---
 
