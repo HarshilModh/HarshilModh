@@ -87,12 +87,6 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** currently pursui
 - Comprehensive data analysis and visualization
 - **Tech Stack:** Python, scikit-learn, PCA, Financial Analytics
 
-### 📚 DSA Notebook
-**Comprehensive algorithm learning resource**
-- Illustrated explanations for 60+ classic algorithms
-- Step-by-step code implementations and tutorials
-- Interactive learning approach for data structures
-- **Tech Stack:** C++, Python, Interactive Tutorials
 
 ---
 
