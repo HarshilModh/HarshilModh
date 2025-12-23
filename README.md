@@ -1,20 +1,31 @@
-# Hi there, I'm Harshil Modh! 👋
+# Hi there, I'm Harshil Modh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+%2B+AI+Systems;LLM+%26+Voice+AI+Builder;I+Ship+Production+Code" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** and **AI enthusiast** currently pursuing my Master's in Computer Science at Stevens Institute of Technology. With a strong foundation in modern web technologies and a keen interest in artificial intelligence, I love building scalable applications that solve real-world problems.
+I'm a **Software Engineer** specializing in **Full-Stack and AI-driven systems**, currently pursuing my **Master’s in Computer Science** at **Stevens Institute of Technology**.
 
-- 🎓 **MS in Computer Science** at Stevens Institute of Technology (GPA: 3.83/4.00)
-- 🌱 Currently exploring **AI/ML technologies** and **cloud architecture**
-- 💼 Former **Software Engineer Intern** at Grownited & **Associate Software Engineer** at Synoptek
-- 🎯 Passionate about creating **user-centric applications** with clean, efficient code
-- 📍 Based in **Hoboken, NJ**
+I focus on building **production-grade applications**—real users, real latency constraints, real scalability problems—not just demos.
+
+- 🎓 **MS in Computer Science** — Stevens Institute of Technology (**GPA: 3.83/4.00**)
+- 🧠 Strong focus on **AI systems, LLM pipelines, and real-time architectures**
+- 💼 Former **Software Engineer Intern** at Grownited
+- 👨‍🏫 **Teaching Assistant** for Graduate Web Programming (CS 546)
+- 📍 Based in **Hoboken, NJ, USA**
+
+---
+
+## 🧠 What I Actually Do
+
+- Build **AI-powered products** using LLMs, Voice AI, and modern web stacks  
+- Design **scalable backend systems** (auth, caching, real-time messaging)  
+- Ship **full-stack applications** with clean UX and strong system design  
+- Optimize for **performance, reliability, and maintainability**
 
 ---
 
@@ -25,21 +36,27 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** currently pursui
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frontend Development
+---
+
+### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge)
 
-### Backend Development
+---
+
+### Backend & Systems
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=for-the-badge)
+
+---
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -48,88 +65,74 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** currently pursui
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### AI & Machine Learning
-![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+---
+
+### AI & LLM Systems
+![Google Gemini](https://img.shields.io/badge/-Google_Gemini-4285F4?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Voice AI](https://img.shields.io/badge/-Voice_AI-8E24AA?style=for-the-badge)
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🤖 AI Code Auditor + DSA Visualizer
-**A unified platform combining AI-powered code auditing with interactive DSA learning**
-- Leveraged **Llama 3.1, Qwen 2.5 & Gemma 2** for code analysis with 90%+ accuracy
-- Built 10+ interactive DSA visualization modules
-- Improved peer understanding by 35% through step-by-step tutorials
-- **Tech Stack:** React, TypeScript, Tailwind CSS, AI APIs, Zod
+### 🎤 Interview Master — AI Voice Interview Agent
+**Real-time AI interviewer with dynamic question generation**
+- Sub-500ms bidirectional voice interviews using **Voice AI + LLMs**
+- Dynamically adapts questions based on candidate experience
+- Automated performance scoring (0–100) with actionable feedback
+- **Tech:** Next.js 14, TypeScript, Google Gemini, Firebase, Voice AI
 
-### ☁️ Droply - Cloud File Sharing Platform
-**Secure file-sharing service with enterprise-grade features**
-- End-to-end encryption with OTP-based authentication
-- Integrated **ImageKit** for 60% faster image delivery
-- Fine-grained access control and expiring links
-- **Tech Stack:** Next.js, TypeScript, Drizzle ORM, Neon Database
+---
 
-### 🎓 Stevens Hub (Duck Hub)
-**Full-stack student portal serving 2k+ students**
-- Reddit-style forums with rich media support
-- Course review engine with anonymized submissions
-- Google OAuth + 2FA reducing unauthorized access by ~90%
-- Integrated Google Maps API increasing usability by ~40%
-- **Tech Stack:** Node.js, Express, MongoDB, Google Maps API
+### 🧑‍⚕️ CareConnect — Real-Time Caregiving Platform
+**Scalable MERN platform with real-time collaboration**
+- Real-time messaging with **Socket.IO + Redis**
+- Health monitoring dashboards improving task adherence by ~30%
+- Secure auth using Firebase Auth + JWT
+- **Tech:** React, Node.js, MongoDB, Redis, AWS, Docker
 
-### 📊 Bankruptcy Prediction
-**ML model predicting corporate bankruptcy using financial data**
-- Utilizes financial ratios and Principal Component Analysis (PCA)
-- High accuracy predictions for corporate financial health
-- Comprehensive data analysis and visualization
-- **Tech Stack:** Python, scikit-learn, PCA, Financial Analytics
+---
 
+### 💻 Vibe Code Editor — AI-Powered Web IDE
+**Cloud-native Web IDE with AI-assisted development**
+- In-browser execution using WebContainers + WASM
+- AI-powered code completion, refactoring, and debugging
+- **Tech:** Next.js, Monaco Editor, TypeScript, LLMs
 
 ---
 
 ## 💼 Professional Experience
 
-### 🔧 Software Engineer Intern | Grownited
-*July 2023 - January 2024*
-- Developed 7 RESTful APIs with <180ms latency
-- Improved Lighthouse performance from 70 to 92
-- Achieved 85% test coverage with Jest integration
+### Software Engineer Intern — Grownited  
+*Jul 2023 – Jan 2024*
+- Built scalable CRM features used by **200+ users**
+- Optimized API latency by ~25% through MongoDB query tuning
+- Implemented CI/CD pipelines reducing release failures by ~40%
 
-### 💻 Associate Software Engineer | Synoptek
-*February 2023 - June 2023*
-- Architected APIs for 500+ daily users
-- Optimized database response times by 30%
-- Enhanced user engagement by 30% through iterative rollouts
+---
+
+### Teaching Assistant — Web Programming (CS 546)  
+*Stevens Institute of Technology*
+- Mentored 100+ graduate students on full-stack architecture
+- Built automated grading pipelines improving turnaround time by 80%
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HarshilModh&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilModh&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HarshilModh&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=HarshilModh&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilModh&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
 
-## 🏅 Certifications
-
-- **Oracle Java SE Certified**
-- **Postman Student Expert**
-
----
-
-## 📫 Let's Connect!
+## 📫 Let’s Connect
 
 <div align="center">
-  
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-modh-53a62a1a6/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshilModh)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmodh@stevens.edu)
@@ -142,12 +145,14 @@ I'm a passionate **Full-Stack Developer** and **AI enthusiast** currently pursui
   <img src="https://komarev.com/ghpvc/?username=HarshilModh&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
+---
+
 <div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+### 💡 “Make it work. Make it right. Make it fast.” — Kent Beck
 
 </div>
 
 ---
 
-⭐ **If you find my projects interesting, don't forget to star them!**
+⭐ If you find my work useful, feel free to star the repositories!
