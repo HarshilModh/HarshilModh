@@ -19,8 +19,6 @@
 
 ---
 
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilModh&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" />
-
 ## ⚡ About Me
 
 🎓 &nbsp; **MS in Computer Science** — Stevens Institute of Technology **(GPA: 3.83)**
@@ -34,8 +32,6 @@
 📍 &nbsp; Based in **Hoboken, NJ**
 
 🔍 &nbsp; Seeking **SDE / Full-Stack / AI-adjacent roles**
-
-<br clear="right"/>
 
 ---
 
@@ -267,9 +263,14 @@ Built CRM features serving 200+ users. Reduced API latency by ~25%. Improved rel
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HarshilModh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&ring_color=58A6FF"/>
-&nbsp;&nbsp;
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilModh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HarshilModh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilModh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilModh&theme=tokyonight&hide_border=true"/>
 
 </div>
 
