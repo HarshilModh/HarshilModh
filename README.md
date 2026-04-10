@@ -1,86 +1,138 @@
+# Hi there, I'm Harshil Modh 👋
+
 <div align="center">
-  <h1>Harshil Modh</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+%2B+AI+Systems+Engineer;LLM+%26+Voice+AI+Builder;Agentic+Workflows+%7C+Real-Time+Systems;I+Ship+Production+Code+%F0%9F%9A%80" alt="Typing SVG" />
-  <br/>
-  <a href="https://github.com/HarshilModh">
-    <img src="https://komarev.com/ghpvc/?username=HarshilModh&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-three-blue-33.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-modh-53a62a1a6/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmodh@stevens.edu)
+
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+%2B+AI+Systems+Engineer;Building+with+LLMs%2C+Voice+AI+%26+Agentic+Workflows;I+Ship+Production+Code" alt="Typing SVG" />
 </div>
 
 ---
 
-### ⚡ About Me
+**Software Engineer** building production-grade full-stack and AI-driven systems. MS in Computer Science at **Stevens Institute of Technology** (GPA: 3.83). I work across the stack — from real-time backends with Redis and WebSockets to agentic AI pipelines with LLMs, voice AI, and durable orchestration.
 
-- 🎓 **MS in Computer Science** — Stevens Institute of Technology (GPA: 3.86)
-- 👨‍🏫 **Teaching Assistant** — CS 546 Web Programming
-- 💼 **Former Software Engineer Intern** at Grownited
-- 🤖 Building with **LLMs, Voice AI, & Agentic Workflows**
-- 📍 Based in **Hoboken, NJ**
-- 🔍 Seeking **SDE / Full-Stack / AI-adjacent** roles
+Currently a **Teaching Assistant for CS 546 (Web Programming)** and actively seeking **SDE / Full-Stack / AI-adjacent roles**.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<div align="left">
-  <p><strong>Languages:</strong></p>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  
-  <p><strong>Frontend:</strong></p>
-  <img src="https://img.shields.io/badge/React-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  
-  <p><strong>Backend & Databases:</strong></p>
-  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+**Languages** &nbsp; JavaScript · TypeScript · Python · Java · Go · C++ · SQL
 
-  <p><strong>Cloud, DevOps & Tools:</strong></p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+**Frontend** &nbsp; React · Next.js · Tailwind CSS · Radix UI · Shadcn UI · Framer Motion
+
+**Backend** &nbsp; Node.js · Express · Flask · Spring Boot · Redis · Socket.IO · WebSockets
+
+**Databases** &nbsp; MongoDB · PostgreSQL · Prisma · Firebase / Firestore · Drizzle ORM
+
+**Cloud & DevOps** &nbsp; AWS (S3) · Docker · Vercel · Render · CI/CD
+
+**AI & ML** &nbsp; OpenAI · Google Gemini · Vercel AI SDK · LangChain · Inngest · Vapi.ai · Hugging Face · scikit-learn
+
+---
+
+## 🏆 Featured Projects
+
+### [PromptStudio](https://github.com/HarshilModh/promptStudio) — Agentic AI App Generator
+> Describe an app in natural language → PromptStudio builds it with an autonomous AI agent.
+
+- Agentic code generation via **Inngest + OpenAI GPT** with iterative tool-use loops (max 10 iterations)
+- Sandboxed execution in **E2B Code Interpreter** with live file + terminal tools
+- Credit-gated usage with **rate limiting** (free 5 / pro 100 per 30 days)
+- **Stack:** Next.js 16 · React 19 · PostgreSQL · Prisma · Clerk Auth · Inngest · E2B · TanStack Query · Shadcn UI
+
+---
+
+### [Interview Master](https://interview-master-one.vercel.app/) — AI Voice Interview Agent
+> Practice technical interviews with a real-time, bidirectional voice AI agent.
+
+- **Sub-500ms latency** voice interactions via Vapi.ai WebRTC + Deepgram STT
+- Dynamic question generation and structured feedback using **Gemini 2.0 Flash**
+- Firebase Auth with httpOnly session cookies, Firestore persistence
+- **Stack:** Next.js 16 · TypeScript · Vapi.ai · Gemini · Firebase · Shadcn UI · Zod
+
+---
+
+### [CareConnect](https://care-connect-app-gamma.vercel.app/) — Real-Time Caregiving Platform
+> Full-stack platform for families coordinating care — messaging, vitals, meds, and panic alerts.
+
+- Real-time chat and notifications via **Socket.IO + Redis**
+- **5-role RBAC**, medication tracking, vitals monitoring, cron-based alerts
+- AWS S3 document storage, Firebase Auth (email/password + Google OAuth)
+- Docker Compose for local multi-service orchestration
+- **Stack:** React 19 · Vite · Node.js · Express 5 · MongoDB · Redis · AWS S3 · Docker
+
+---
+
+### [Duck Hub (Stevens Community Hub)](https://duck-hub.onrender.com/) — Campus Community Platform
+> CS 546 final project — a full-stack campus portal for Stevens students.
+
+- Forums, course reviews, Google OAuth, Cloudinary media, Nodemailer OTP
+- Server-rendered MVC with **Handlebars + Passport.js**
+- **Stack:** Node.js · Express 5 · MongoDB · Handlebars · Passport.js
+
+---
+
+### Financial Earnings Call Analyzer *(In Progress)*
+> RAG pipeline over SEC filings for financial earnings analysis.
+
+- Retrieval-augmented generation for structured Q&A on 10-K / 10-Q filings
+- **FE 524 Final Project** — Team: Krish Tarkar, Dev Desai, Bhuvan Chandra Alladi
+- **Stack:** Python · LangChain · Vector DB · LLM APIs
+
+---
+
+### 🤖 AI Code Auditor + DSA Visualizer
+> AI-powered code review engine paired with interactive algorithm visualizations.
+
+- Code auditing powered by **Llama 3.1, Qwen 2.5, and Gemma 2**
+- 10+ interactive DSA visualizations for sorting, searching, trees, and graphs
+- **Stack:** React · TypeScript · Tailwind CSS · Zod
+
+---
+
+### ☁️ Droply — Cloud File Sharing Platform
+> Secure, end-to-end encrypted file sharing with one-time-password access.
+
+- OTP-authenticated file access with optimized media delivery via **ImageKit**
+- **Stack:** Next.js · TypeScript · Drizzle ORM · Neon Database
+
+---
+
+### 📊 Bankruptcy Prediction
+> ML model for predicting corporate bankruptcy using financial ratios.
+
+- Dimensionality reduction with **PCA** and predictive analytics with visualization
+- **Stack:** Python · scikit-learn · NumPy · Matplotlib
+
+---
+
+## 💼 Experience
+
+**Teaching Assistant — CS 546 Web Programming** · Stevens Institute of Technology
+- Mentoring 100+ graduate students on Node.js, Express, MongoDB, and full-stack architecture
+- Built automated grading pipelines reducing turnaround by ~80%
+
+**Software Engineer Intern** · Grownited *(Jul 2023 – Jan 2024)*
+- Built CRM features serving 200+ users; reduced API latency by ~25%
+- Improved release stability through CI/CD pipeline enhancements
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=HarshilModh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilModh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
-### 🏆 Featured Projects
-
-| Project | Description |
-| :--- | :--- |
-| **🧠 PromptStudio** | **Agentic AI App Generator:** Describe an app in natural language → PromptStudio builds it. Features agentic code generation via Inngest + OpenAI GPT, iterative tool-use loops, sandboxed execution in E2B, and credit-gated rate limiting. |
-| **🎤 Interview Master** | **AI Voice Interview Agent:** Bidirectional voice agent with sub-500ms latency via Vapi.ai WebRTC + Deepgram STT. Dynamic question generation and structured feedback powered by Gemini 2.0 Flash. |
-| **💻 DevSync** | **Collaborative Editor:** Real-time collaborative code editor integrating AI-assisted features for seamless, synchronized developer workflows. |
-| **🧑‍⚕️ CareConnect** | **Real-Time Caregiving Platform:** Full-stack app with real-time chat via Socket.IO + Redis, 5-role RBAC, medication tracking, vitals monitoring, panic alerts, and Docker Compose orchestration. |
-| **🎓 Duck Hub** | **Stevens Community Platform:** Full-stack campus portal with forums, course reviews, Google OAuth, Cloudinary media uploads, and Nodemailer OTP. Server-rendered MVC architecture. |
-| **🤖 AI Code Auditor** | **Code Review & DSA Visualizer:** Code auditing powered by Llama 3.1, Qwen 2.5, and Gemma 2 with 10+ interactive visualizations for sorting, trees, and graphs. |
-
----
-
-### 💼 Experience
-
-**👨‍🏫 Teaching Assistant — CS 546 Web Programming** *Stevens Institute of Technology* Mentoring 100+ graduate students on Node.js, Express, MongoDB, and full-stack architecture. Built automated grading pipelines reducing turnaround by ~80%.
-
-**💼 Software Engineer Intern** *Grownited | Jul 2023 – Jan 2024* Built CRM features serving 200+ users. Reduced API latency by ~25%. Improved release stability through CI/CD pipeline enhancements.
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HarshilModh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshilModh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarshilModh&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <i>"Make it work. Make it right. Make it fast." — Kent Beck</i>
-  <br/><br/>
-  ⭐ If you find my projects useful, feel free to star the repositories!
+  <img src="https://komarev.com/ghpvc/?username=HarshilModh&color=blueviolet&style=flat-square" />
 </div>
